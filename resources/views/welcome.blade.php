@@ -43,6 +43,7 @@
             <div class="content">
                 <div class="title">Laravel 5!</div>
 				<div class="text">Yoo..</div>
+				<div class="text">Woah :)</div>
             </div>
         </div>
     </body>
