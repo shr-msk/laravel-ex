@@ -33,12 +33,16 @@
             .title {
                 font-size: 96px;
             }
+			.text {
+                font-size: 72px;
+            }
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">Laravel 5!</div>
+				<div class="text">Yoo..</div>
             </div>
         </div>
     </body>
